@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COVID_Mouse_Simulation_Junior_Perez", "COVID_Mouse_Simulation_Junior_Perez.vcxproj", "{765672A4-F615-4C01-AE02-B03471D19669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765672A4-F615-4C01-AE02-B03471D19669}.Debug|x64.ActiveCfg = Debug|x64
+		{765672A4-F615-4C01-AE02-B03471D19669}.Debug|x64.Build.0 = Debug|x64
+		{765672A4-F615-4C01-AE02-B03471D19669}.Debug|x86.ActiveCfg = Debug|Win32
+		{765672A4-F615-4C01-AE02-B03471D19669}.Debug|x86.Build.0 = Debug|Win32
+		{765672A4-F615-4C01-AE02-B03471D19669}.Release|x64.ActiveCfg = Release|x64
+		{765672A4-F615-4C01-AE02-B03471D19669}.Release|x64.Build.0 = Release|x64
+		{765672A4-F615-4C01-AE02-B03471D19669}.Release|x86.ActiveCfg = Release|Win32
+		{765672A4-F615-4C01-AE02-B03471D19669}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F65F8E7-C6FB-45C6-B8CE-5CE2CE04D8C0}
+	EndGlobalSection
+EndGlobal
