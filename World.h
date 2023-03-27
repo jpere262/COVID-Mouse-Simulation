@@ -9,10 +9,10 @@ enum Move {UP = 0, DOWN, LEFT, RIGHT};
 const int WORLDSIZE = 19;
 
 // Number of initial males
-const int INITIAL_MALE_MICE = 5;
+const int INITIAL_MALE_MICE = 15;
 
 // Number of initial females
-const int INITIAL_FEMALE_MICE = 5;
+const int INITIAL_FEMALE_MICE = 15;
 
 // Time steps between breeding of males
 const int BREED_MALE_MICE = 300000000000;
